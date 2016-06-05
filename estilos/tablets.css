@@ -1,0 +1,19 @@
+@media only screen and (max-width: 800px){
+    section .contenedorsec{
+        display: block;
+        
+    } section .contenedorsec article{
+   padding: 40px 0px;
+    width: 100% ;
+    background-color: #283593;
+        
+    } section .contenedorsec aside{
+         padding: 40px 0px;
+    width: 100% ;
+    }
+    
+    
+    
+    
+}
+    

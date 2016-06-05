@@ -1,0 +1,28 @@
+header{
+    border-bottom-left-radius: 2px;
+        border-bottom-right-radius: 2px;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);   
+    display: flex;
+    background-color: #111111;
+}header nav {width: 100%;
+
+}header nav ul {
+    display: flex;
+    
+}header nav ul li{
+    list-style: none;
+    padding: 20px;
+    margin:0px;
+ background-color:#111111;
+}header nav ul li a{
+ background-color:#111111;
+color:#7FDBFF;
+    font-family: "helvetica";
+    text-decoration: none;
+    padding: 0 auto;
+    margin: 0 auto;
+    
+
+}  .boton #bot{
+    display: none;
+}

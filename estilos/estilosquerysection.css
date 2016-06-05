@@ -1,0 +1,139 @@
+@media only screen and (max-width: 800px)
+    {
+        
+        *{
+    margin:0;
+    padding:0;
+    
+}section article{
+  
+      padding: 40px 0px;
+    width: 100% ;
+    background-color: #283593;
+}section aside{
+    
+    
+    background-color: #3F51B5;
+
+ }
+section{
+    border-bottom-left-radius: 2px;
+        border-bottom-right-radius: 2px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);   
+        }.contenedorsec{
+            
+            
+         
+        }section article .artcon{
+    display:block;
+}section article .artcon div{  
+      display: block;
+    width: 50%  ;
+    padding: 10px;
+    height: 0%;
+    margin: 5% 25%;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 500px)
+    {
+        
+        *{
+    margin:0;
+    padding:0;
+    
+}section article{
+      padding: 40px 0px;
+    width: 100% ;
+    background-color: #283593;
+}section aside{
+    
+    
+    background-color: #3F51B5;
+
+ }
+section{
+    border-bottom-left-radius: 2px;
+        border-bottom-right-radius: 2px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);   
+        }.contenedorsec{
+            display:inline-block;
+            
+            margin: auto;
+        }section article .artcon{
+    display: block;
+}section article .artcon div{  
+      display: block;
+    width: 100%  ;
+    padding: 0;
+    margin: 0;
+}      
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+aqui inicia el de tablets
+*/   
+
+
+
+
+
+

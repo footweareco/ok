@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    padding:0;
+    
+}section article{
+    padding: 30px;
+    width: 70%;
+    background-color: #283593;
+}section aside{
+    
+    
+    padding: 30px;
+    background-color: #3F51B5;
+
+width: 30%;}
+section{border-bottom-left-radius: 2px;
+        border-bottom-right-radius: 2px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);   
+}.contenedorsec{
+            display: flex;
+            
+}section article .artcon{
+    display: flex;
+}section article .artcon div{  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);   
+    background-color: aliceblue;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+        border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+width: 50%;
+    margin: 3px;
+    
+}section article .artcon div .imgg{    border-radius: 0px; background-color: #fff;
+    background-image: url(../img/1228f96c19f6a30cc07e003a9f02b6e9.jpg);
+    background-position: center;
+    background-size: contain ;
+    background-repeat: no-repeat;
+   
+
+    width: 100%;
+    padding: 30% 0px;
+    margin: 0px;
+      box-shadow:none ;
+}section article .artcon div .imggg{    border-radius: 0px;
+    background-image: url(../img/1b3d96d43fff75e4f46adb1b94d2f0ba.jpg);
+    background-position: center;
+    background-size: contain ;
+    background-repeat: no-repeat;
+ background-color: ;
+    width: 100%;
+    padding: 30% 0px;
+    margin: 0;
+      box-shadow:none ;
+     background-color: #fff;
+}section article .artcon div .imgggg{    border-radius: 0px;
+    background-image: url(../img/e4c6fbe49724dce90ac9efa5a501e791.jpg);
+    background-position: center;
+    background-size: contain ;
+    background-repeat: no-repeat;
+ background-color: #fff;
+    width: 100%;
+    padding: 30% 0px;
+    margin: 0;
+      box-shadow:none ;
+}
+
+
+
+
+
+
+
+section article .artcon div .pp{  font-family: helvetica;
+   
+    text-align: left;
+    
+     width: 100%;
+    padding: 30px 0px;
+    margin: 0;
+      box-shadow:none ;
+}h3    { border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+    background-color: #E0E0E0;}.vis{
+        text-align: center;
+        font-family: helvetica;
+        font-size: 20px;
+        font-weight: bold;}section article .artcon div .pp p{
+            margin: 10px;
+}
